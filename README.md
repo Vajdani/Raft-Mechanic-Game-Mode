@@ -6,15 +6,17 @@
 **Play the game in a completely new and different way than ever before!**
 
 # Media
-[![embed_1](https://img.youtube.com/vi/PUUflpzfTiQ/0.jpg)](https://www.youtube.com/watch?v=PUUflpzfTiQ)\
+<iframe width="100%" height="500" alt="embed_1" src="https://www.youtube.com/embed/PUUflpzfTiQ"></iframe> 
+
 ![embed_2](https://images.steamusercontent.com/ugc/1877451307941210897/19C58BD871E3213EA52858B9C77F8D51CEFB307E/)
 ![embed_3](https://images.steamusercontent.com/ugc/1877451307941212372/595AC977DBE9C0CD41A37170235E3E813DBDFAF6/)
 ![embed_4](https://images.steamusercontent.com/ugc/1877451307941212916/976C8C103519135AD8AE40909A3F257EC886F7EB/)
 ![embed_5](https://images.steamusercontent.com/ugc/1877451307941213485/EEE0E3D6289EC0394E4B7D14B3BFF118B107B4B5/)
 ![embed_6](https://images.steamusercontent.com/ugc/1877451307941213960/4342B4399A4F0A96549933A31FF31F014D767924/)
-![embed_7](https://images.steamusercontent.com/ugc/1910107854874128800/69C6E2743E6C83145728D4668F37D714FE820340/)
-![embed_8](https://images.steamusercontent.com/ugc/1910107854874129304/C2949E6CB5FF7253E36E7C00050313E41B5060F2/)
-![embed_9](https://images.steamusercontent.com/ugc/1910107854874129712/358FC318D7B984A3E9C86296BB1F2DA1BAD069F2/)
+
+<img src="https://images.steamusercontent.com/ugc/1910107854874128800/69C6E2743E6C83145728D4668F37D714FE820340/" alt="embed_7" width="100%">
+<img src="https://images.steamusercontent.com/ugc/1910107854874129304/C2949E6CB5FF7253E36E7C00050313E41B5060F2/" alt="embed_8" width="100%">
+<img src="https://images.steamusercontent.com/ugc/1910107854874129712/358FC318D7B984A3E9C86296BB1F2DA1BAD069F2/" alt="embed_9" width="100%">
 
 # INSTALLATION:
 
