@@ -1,5 +1,7 @@
 <!-- ## WARNING: Having file mods installed while playing with this custom game *could cause issues*! One of the most well known ones is unbreakable crates that occur while having Fant mod installed. -->
 
+![preview](https://raw.githubusercontent.com/Vajdani/Raft-Mechanic-Game-Mode/refs/heads/main/preview.jpg)
+
 # This Mod Adds Features From Axolot Games' Other Title, [Raft](https://store.steampowered.com/app/648800/Raft/)!
 **Play the game in a completely new and different way than ever before!**
 
