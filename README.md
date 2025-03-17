@@ -6,7 +6,9 @@
 **Play the game in a completely new and different way than ever before!**
 
 # Media
-<iframe width="100%" height="500" alt="embed_1" src="https://www.youtube.com/embed/PUUflpzfTiQ"></iframe> 
+<a href="https://www.youtube.com/watch?v=PUUflpzfTiQ" alt="embed_1">
+  <img src="https://img.youtube.com/vi/PUUflpzfTiQ/0.jpg" width="100%"/>
+</a>
 
 ![embed_2](https://images.steamusercontent.com/ugc/1877451307941210897/19C58BD871E3213EA52858B9C77F8D51CEFB307E/)
 ![embed_3](https://images.steamusercontent.com/ugc/1877451307941212372/595AC977DBE9C0CD41A37170235E3E813DBDFAF6/)
