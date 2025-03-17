@@ -7,7 +7,7 @@
 
 # Media
 <a href="https://www.youtube.com/watch?v=PUUflpzfTiQ" alt="embed_1">
-  <img src="https://img.youtube.com/vi/PUUflpzfTiQ/0.jpg" width="100%"/>
+  <img src="https://img.youtube.com/vi/PUUflpzfTiQ/0.jpg"/>
 </a>
 
 ![embed_2](https://images.steamusercontent.com/ugc/1877451307941210897/19C58BD871E3213EA52858B9C77F8D51CEFB307E/)
